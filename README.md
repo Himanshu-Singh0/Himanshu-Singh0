@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Himanshu-Singh0
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Fullstack Development
-- 💞️ I’m looking to collaborate on Fullstack Enfineer
+- 💞️ I’m looking to collaborate on Fullstack Engineer
 - 📫 How to reach me email me @singhhimansh000@gmail.com
 
 <!---
